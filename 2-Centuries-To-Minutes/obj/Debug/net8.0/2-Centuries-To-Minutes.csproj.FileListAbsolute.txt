@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\bin\Debug\net8.0\2-Centuries-To-Minutes.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\bin\Debug\net8.0\2-Centuries-To-Minutes.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\bin\Debug\net8.0\2-Centuries-To-Minutes.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\bin\Debug\net8.0\2-Centuries-To-Minutes.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\bin\Debug\net8.0\2-Centuries-To-Minutes.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\refint\2-Centuries-To-Minutes.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\2-Centuries-To-Minutes.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\2-Centuries-To-Minutes\obj\Debug\net8.0\ref\2-Centuries-To-Minutes.dll
