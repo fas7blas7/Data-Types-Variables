@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\bin\Debug\net8.0\4-FoodDelivery.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\bin\Debug\net8.0\4-FoodDelivery.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\bin\Debug\net8.0\4-FoodDelivery.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\bin\Debug\net8.0\4-FoodDelivery.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\bin\Debug\net8.0\4-FoodDelivery.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\refint\4-FoodDelivery.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\4-FoodDelivery.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\4-FoodDelivery\obj\Debug\net8.0\ref\4-FoodDelivery.dll
