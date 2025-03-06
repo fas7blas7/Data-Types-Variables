@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\bin\Debug\net8.0\3-Redecorating.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\bin\Debug\net8.0\3-Redecorating.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\bin\Debug\net8.0\3-Redecorating.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\bin\Debug\net8.0\3-Redecorating.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\bin\Debug\net8.0\3-Redecorating.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\refint\3-Redecorating.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\3-Redecorating.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\3-Redecorating\obj\Debug\net8.0\ref\3-Redecorating.dll
