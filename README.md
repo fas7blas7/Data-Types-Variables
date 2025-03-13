@@ -108,6 +108,60 @@ namespace _4_FoodDelivery
 
 ---
 
+### 5️⃣ Basketball Equipment 🏀
+```csharp
+// Calculate the total cost of basketball equipment based on the yearly training fee
+
+namespace _5_BasketballEquipment
+{
+    internal class BasketballEquipment
+    {
+        static void Main(string[] args)
+        {
+            int yearFee = int.Parse(Console.ReadLine());
+
+            double shoesPrice = yearFee * 0.60;
+            double clothesPrice = shoesPrice * 0.80;
+            double ballPrice = clothesPrice / 4;
+            double accessoriesPrice = ballPrice / 5;
+
+            double total = yearFee + shoesPrice + clothesPrice + ballPrice + accessoriesPrice;
+
+            Console.WriteLine(total);
+        }
+    }
+}
+```
+
+---
+
+### 6️⃣ Aquarium 🐠
+```csharp
+// Calculate the total liters of water needed for an aquarium after accounting for occupied space
+
+namespace _6_Aquarium
+{
+    internal class Aquarium
+    {
+        static void Main(string[] args)
+        {
+            int length = int.Parse(Console.ReadLine());
+            int width = int.Parse(Console.ReadLine());
+            int height = int.Parse(Console.ReadLine());
+            double percentage = double.Parse(Console.ReadLine());
+
+            double volume = length * width * height;
+            double totalLiters = volume * 0.001;
+            double percentageDecimal = percentage * 0.01;
+            double totalLitersNeeded = totalLiters * (1 - percentageDecimal);
+            Console.WriteLine($"{totalLitersNeeded:F2}");
+        }
+    }
+}
+```
+
+---
+
 ### 🚀 How to Run
 1. Clone the repository:  
    ```bash
@@ -115,6 +169,3 @@ namespace _4_FoodDelivery
    ```
 2. Navigate to the project folder.
 3. Compile and run each script in a C# environment.
-
-Happy coding! 🎉
-
