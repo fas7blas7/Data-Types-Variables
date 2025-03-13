@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\bin\Debug\net8.0\6-Aquarium.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\bin\Debug\net8.0\6-Aquarium.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\bin\Debug\net8.0\6-Aquarium.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\bin\Debug\net8.0\6-Aquarium.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\bin\Debug\net8.0\6-Aquarium.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\refint\6-Aquarium.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\6-Aquarium.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\5-DATA-TYPES-VARIABLES-AND-KEY-CONCEPTS\6-Aquarium\obj\Debug\net8.0\ref\6-Aquarium.dll
